@@ -1,8 +1,11 @@
-## Hi, I'm Cynthia.👋
+## Hi there, I'm Cynthia.👋
 
 📍 Toronto, Canada
+
 📫 You can reach me at yip.s.cynthia[at]gmail.com
+
 👯 I'm open to networking and collaborating on interesting projects.
+
 👩🏻‍💻 I'm looking for full-time data science opportunities.
 
 Professional Highlights
